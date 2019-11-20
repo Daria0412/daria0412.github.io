@@ -1,16 +1,52 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 이것저것 다 해보는 사람
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+저는 남정윤입니다. 제 인생의 모토는 오할오하와 내할내하입니다:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 오늘 할 일은 오늘 하자
+- 내일 할 일은 내일 하자
 
-What else do you need?
 
-### my history
+### 남정윤의 역사ㅔ
+- 2002.08.21 탄생
+- 남양주, 하나어린이집
+- 서울, 이화 포르테
+- 서울, 안평초등학교 입학
+- 서울, 숭인초등학교 졸업
+- 서울, 장위중학교 입학 및 졸업
+- 서울, 미림여자정보과학고등학교 입학 및 졸업 예정
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### 남정윤이 공부하는 것
+- 파이썬 웹 서버 개발 (플라스크, 장고)
+- jsp 웹 구축
+- node.js 서버 개발
+- mysql
+
+### 남정윤이 공부할 것
+- 파이썬 크롤링 및 매크로
+- postgresql 공부해서 flask 연동
+- vue.js & node.js 
+- ajax로 복잡한 코드 줄이기
+
+### 남정윤이 좋아하는 것
+- 뮤지컬 배우 수호
+- 홈런볼
+- 나를 죽일 듯한 솜이불
+- 제주감귤 음료수
+- 집에 있는 애착베게
+
+### 남정윤이 싫어하는 것
+- 학교
+- 단무지
+- 피클
+- 쌈무
+- 치킨무
+- 오이지
+- 김밥 등등,,
+- 자고 있는 사람 깨우기
+- 내 침대 뺏기
+
+
